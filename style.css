@@ -99,3 +99,11 @@ line-height: 30px;
 nav{
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
+.navbar-toggler-icon{
+  height: 20px;
+    width: 17px;
+    padding: 10px;
+}
+.navbar-toggler{
+  color: #e9ecef;
+}
